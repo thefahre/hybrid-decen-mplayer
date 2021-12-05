@@ -1,7 +1,7 @@
 # hybrid-decen-mplayer
 Very crude concept of a hybrid between decentralized network and centralized server. 
 
-## Prereqisites
+## Prerequisites
 * Linux VPS with HTTP server running
 * Linux desktop with `jq` and `mpv`
 * web3.storage account and token
